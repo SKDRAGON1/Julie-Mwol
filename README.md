@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/SKDRAGON1">AJNAS</a> to make it p
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SKDRAGON1/Julie-Mwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SKDRAGON1/sadiesink) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SKDRAGON/JulieMwol)
   
