@@ -25,10 +25,15 @@ Project created by <a href="https://github.com/SKDRAGON1">AJNAS</a> to make it p
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SKDRAGON1/sadiesink) 
   
+### SETUP
 
+1. Scan the QR.
+    <br>
+<a href='https://baileys-md-qr.herokuapp.com/deployment' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+***
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
-  
 ### The Hard Method
 ```js
 GET QR
