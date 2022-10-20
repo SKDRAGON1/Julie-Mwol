@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/SKDRAGON1">AJNAS</a> to make it p
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SKDRAGON1/sadiesink) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)]([https://replit.com/@SKDRAGON/JulieMwol](https://replit.com/@LoveAju/Siadiesink?v=1)]
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)]([https://replit.com/@SK(https://replit.com/@LoveAju/Siadiesink?v=1)]
   
 ### The Hard Method
 ```js
